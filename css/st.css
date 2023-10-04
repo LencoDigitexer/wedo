@@ -53,6 +53,16 @@ p {
 	background: url("../images/pdf.png") no-repeat;
 }
 
+.yt:before {
+	content: "";
+	display: block;
+	width: 16px;
+	height: 16px;
+	float: left;
+	margin: 4px 6px 0 0;
+	background: url("../images/yt.png") no-repeat;
+}
+
 .lst:before {
 	content: "";
 	display: block;
